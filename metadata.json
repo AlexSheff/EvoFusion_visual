@@ -1,0 +1,5 @@
+{
+  "name": "EvoFusion",
+  "description": "A research framework UI for the co-evolution of neural network activation and loss functions using a simulated genetic algorithm, with dynamic visualization of results.",
+  "requestFramePermissions": []
+}
